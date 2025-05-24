@@ -12,4 +12,5 @@ if [ $? -eq 0 ]; then
 else
   echo "Download failed!"
 fi
+#this is the shell script used
 
